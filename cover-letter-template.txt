@@ -1,0 +1,10 @@
+Dear {{hiring-manager}},
+
+I am writing to express my interest in the {{position}} position. I am a self-motivated and progress-driven {{position}} with an extensive background in this industry. I have developed and executed strategies that I believe will bring value to {{company}}.
+
+Throughout my career, I have been recognized for achieving results. I enjoy problem-solving and utilize my abilities in system design, algorithms and iOS toolkit to ensure that I meet my goals.
+
+Please take a look at my enclosed resume for more details about my work experience and qualifications. I'd really like to speak with you more about the position, and I look forward to hearing from you soon.
+
+Sincerely,
+Hussein AlRyalat
